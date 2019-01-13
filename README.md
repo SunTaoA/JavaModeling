@@ -1,5 +1,5 @@
 # Java modeling practice
-the init version from SingTel,An enhancement on a modeling quiz.<br/>
+Initlized from SingTel, enhancements on a modeling quiz. (Intellij IDEA + Spring)<br/>
 a. Modeling.<br/>
-b. Add unit test.<br/>
+b. Add unit tests.<br/>
 c. Provide RESTful API.  (Details check the attached document).<br/>
